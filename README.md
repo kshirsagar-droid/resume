@@ -8,7 +8,7 @@ Executive, Back Office Executive, and Data Analyst roles.
 
 📄 Resume
 
-Download PDF
+[Download PDF](https://github.com/kshirsagar-droid/resume/raw/main/Om_Kshirsagar_Resume.pdf)
 
 🛠️ Core Skills
 
@@ -31,5 +31,5 @@ Customer Order Analysis - SQL
 🔗 Connect
 
 
-LinkedIn: linkedin.com/in/om-kshirsagar-data
-GitHub: kshirsagar-droid
+LinkedIn: [linkedin.com/in/om-kshirsagar-data](https://linkedin.com/in/om-kshirsagar-data)
+GitHub: [kshirsagar-droid](https://github.com/kshirsagar-droid)
